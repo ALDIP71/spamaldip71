@@ -1,2 +1,14 @@
-# spamaldip71
-Cara menjalankanya =python spamaldi71.py
+# spam wa dan sms vip
+
+Cara menjalankan scripnya
+$Pkg update && pkg upgrade
+$Pkg install python
+$Pkg install mechanize
+$Pkg install requests
+$Pkg install git
+$git clone https://github.com/ALDIP71/spamaldip71
+$ls
+$cd spamaldip71
+$Python spamaldip71.py
+
+
