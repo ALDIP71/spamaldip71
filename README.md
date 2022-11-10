@@ -1,6 +1,6 @@
 # spam wa dan sms vip
 
-Cara menjalankan scripnya
+#Cara menjalankan scripnya
 $Pkg update && pkg upgrade
 $Pkg install python
 $Pkg install mechanize
